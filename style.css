@@ -51,10 +51,10 @@ section {
 }
 
 footer {
-    position: relative;
     color: rgb(15, 15, 128);
     font-size: 18px;
-    left:1000px;
+    text-align: right;
+    margin-top:100px;
    
 }
 
